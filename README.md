@@ -1,3 +1,6 @@
+# Beginner's guide to understand Kafka
+An article written by me, published at: https://learnbyinsight.com/2020/07/26/beginner-guide-to-understand-kafka/
+
 # kafka-demo-windows
  Kafka demo on windows
 
